@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New ArchiMate View"
+    id="id-ac0483af04124487863c36c0ad4fd07e">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-91f233fe62b947cd83c93ca5701faf4a"
+      targetConnections="id-99191ac868bb48c99e977fee4a653899">
+    <bounds
+        x="252"
+        y="240"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-ffc93329951b45dda0db12f17c659661.xml#id-ffc93329951b45dda0db12f17c659661"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2f6d00c31abd45038351009a16c29799">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-99191ac868bb48c99e977fee4a653899"
+        source="id-2f6d00c31abd45038351009a16c29799"
+        target="id-91f233fe62b947cd83c93ca5701faf4a">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-f7a4bfd300f04e96ae9d57354cc5f26d.xml#id-f7a4bfd300f04e96ae9d57354cc5f26d"/>
+    </sourceConnections>
+    <bounds
+        x="516"
+        y="240"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-87fa1387f20445849568bee24495cf9e.xml#id-87fa1387f20445849568bee24495cf9e"/>
+  </children>
+</archimate:ArchimateDiagramModel>
